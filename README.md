@@ -12,7 +12,7 @@ In order to play you need to download and setup "Create Your Frisk", and paste t
 
 # Youtube
 
-Before becoming fully playable, this mod was half-animated!
+Before becoming fully playable, this mod was half-edited and half-programmed!
 
 ▶️Check it out on my Youtube channel: https://www.youtube.com/watch?v=npaDpUru0is&t=90s
 
