@@ -8,6 +8,8 @@ I brought Technoblade into Undertale! Minecraft-like attack patterns, DSMP refre
 
 In order to play you need to download and setup "Create Your Frisk", and paste the extracted file into the mods folder (make sure when you open CYF, in the options menu, "Retrocompatibility Mode" is turned off).
 
+Have fun!
+
 🔗Here is the link for CYF's download link and tutorial: https://www.reddit.com/r/Unitale/comments/akhrcs/download_links_guides_and_help_for_unitale_and/
 
 # Youtube
